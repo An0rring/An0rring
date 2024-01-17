@@ -4,7 +4,7 @@ I'm Anton, a student passionate about programming. Welcome to my GitHub profile!
 ## About Me
 
 - 🌱 I'm currently learning data.
-- 💼 Im a student at Polhemskolan.
+- 💼 Im a student at Polhemsskolan.
 - 📫 You can reach me at anton.norring@skola.gavle.se
 
 ## My Projects
