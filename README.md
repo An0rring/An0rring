@@ -11,7 +11,7 @@ I'm Anton, a student passionate about programming. Welcome to my GitHub profile!
 
 Here are some of the projects I've been working on:
 
-1. https://github.com/Polhemsskolan-DATA/sidmallen-An0rring: Working on a website.
+1. https://github.com/Polhemsskolan-DATA/sidmallen-An0rring: Website
 
 ## Skills
 
