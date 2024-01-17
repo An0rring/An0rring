@@ -18,7 +18,7 @@ Here are some of the projects I've been working on:
 - Nothing
 
 ## Connect with Me
-No, No
+anton.norring@skola.gavle.se
 
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
