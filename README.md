@@ -15,11 +15,11 @@ Here are some of the projects I've been working on:
 
 ## Skills
 
-- Focusing 
+- Nothing
 
 ## Connect with Me
+No, No
 
-Twitter/X - (https://twitter.com/LillSnorring)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
